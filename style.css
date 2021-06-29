@@ -1,0 +1,24 @@
+div.container{
+    position: absolute;
+    background-image: linear-gradient(45deg,#FF0B0B, #FFFDFD);
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+div.satu{
+    background-image: radial-gradient(ellipse at bottom,#FFFDFD, #0000FF);
+    width: 50%;
+    height: 75%;
+    margin: auto;
+}
+
+div.dua{
+    background-image: radial-gradient(circle at left,#FFFDFD,#0000FF,#FFFDFD);
+    width: 50%;
+    height: 20%;
+    margin: auto;
+}   
